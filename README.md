@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻 About me, I am ...
 &nbsp;&nbsp;&nbsp;&nbsp;✍ I'm a student of [Ho Chi Minh City University of Technology and Education](https://hcmute.edu.vn/) (HCMUTE)
-<br/>&nbsp;&nbsp;&nbsp;&nbsp; 💼 I'm a **Java Developer** 
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;💼 I'm a **Java Developer** 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anh-nhan-le-72b569251" target="_blank">
