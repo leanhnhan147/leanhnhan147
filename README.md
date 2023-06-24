@@ -48,7 +48,7 @@
 </table>
 
 ## 📚 Certificates
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+<img align="right" width="200" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
 - [![LearnQuest](https://img.shields.io/badge/-LearnQuest-yellow) Core Java Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/NUJNHMKM6XDG)
 - [![Google](https://img.shields.io/badge/-Google-blue) Foundations of Project Management](https://www.coursera.org/account/accomplishments/certificate/MS3VCNK4TAZM)
