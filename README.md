@@ -4,7 +4,7 @@
   <h3 align="center">A passionate developer from Vietnam </h3>
 </p>
 
-## 👨🏻‍💻 About me, I am ...
+## 👨🏻‍💻 About me
 ✍&nbsp;&nbsp;&nbsp;&nbsp;I'm a student of [Ho Chi Minh City University of Technology and Education](https://hcmute.edu.vn/)
 <br/>💼&nbsp;&nbsp;&nbsp;&nbsp;I'm a **Java Developer** 
 
