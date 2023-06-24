@@ -5,7 +5,7 @@
 </p>
 
 ## 👨🏻‍💻 About me, I am ...
-&nbsp;&nbsp;&nbsp;&nbsp;✍ I'm a student of [Ho Chi Minh City University of Technology and Education](https://hcmute.edu.vn/) (HCMUTE)
+&nbsp;&nbsp;&nbsp;&nbsp;✍ I'm a student of [Ho Chi Minh City University of Technology and Education](https://hcmute.edu.vn/)
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;💼 I'm a **Java Developer** 
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ## 🛠 Tech stack
 #### ☁️&nbsp;&nbsp;&nbsp;&nbsp;![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) 
-#### 💾&nbsp;&nbsp;&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) 
+#### 💾&nbsp;&nbsp;&nbsp;&nbsp;![MSSQL Server](https://img.shields.io/badge/MSSQL%20Server-231F20?style=flat&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-74aa9c?style=flat&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) 
 #### 🚀&nbsp;&nbsp;&nbsp;&nbsp; ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat&logo=Thymeleaf&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-%20brightgreen.svg?&style=flat&logo=Hibernate&logoColor=white)
 #### 💻&nbsp;&nbsp;&nbsp;&nbsp;![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=flat&logo=visual-studio-code&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 #### 📋&nbsp;&nbsp;&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=Java&logoColor=white) 
