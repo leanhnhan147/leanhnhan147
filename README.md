@@ -8,6 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;✍ I'm a student of [Ho Chi Minh City University of Technology and Education](https://hcmute.edu.vn/)
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;💼 I'm a **Java Developer** 
 
+## 📬 Get in touch with me
 <p align="center">
   <a href="https://www.linkedin.com/in/anh-nhan-le-72b569251" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
