@@ -5,8 +5,8 @@
 </p>
 
 ## 👨🏻‍💻 About me, I am ...
-&nbsp;&nbsp;&nbsp;&nbsp;✍ I'm a student of [Ho Chi Minh City University of Technology and Education](https://hcmute.edu.vn/)
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;💼 I'm a **Java Developer** 
+✍&nbsp;&nbsp;&nbsp;&nbsp;I'm a student of [Ho Chi Minh City University of Technology and Education](https://hcmute.edu.vn/)
+<br/>💼&nbsp;&nbsp;&nbsp;&nbsp; I'm a **Java Developer** 
 
 ## 📬 Get in touch with me
 <p align="center">
